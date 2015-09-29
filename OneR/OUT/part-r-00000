@@ -1,0 +1,10 @@
+AGE: young => yes average => no old => no
+	0.5871424
+EDUCATION: unknown => no primary => no secondary => no tertiary => yes
+	0.64309937
+JOB: admin => no unknownJob => no unemployed => no
+ management => yes housemaid => no entrepreneur => no 
+ student => yesblue-collar => no self-employed => no retired => yes technician => no services => no
+	0.749189
+MARITAL: married => no divorced => no single => yes
+	0.59797996

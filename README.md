@@ -1,0 +1,2 @@
+# MapReduce
+MapReduce program written in Java with the aim to analyze data about bank customers. Records were available for public use for more than 45,000 customer. Data mining Classification technique was used with OneR and ZeroR algorithms. Virtual machines from MapR academy was used to run the program on virtual box. 
